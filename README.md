@@ -1,1 +1,2 @@
-# react-pratice
+# REACT PROJECT
+
